@@ -1,0 +1,1 @@
+C:\Test\WindowsServicesManager\WindowsServicesManager.Services\bin\Debug\WindowsServicesManager.Services.exe.config
